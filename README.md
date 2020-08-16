@@ -13,17 +13,18 @@ That's why I love :heartpulse: open source!
 
 ---
 <p>
-  <img height="150" align='left' src="https://github.com/blueworrybear/blueworrybear/blob/master/images/gitea.png?raw=true">
+  <img width="100" align='left' src="https://github.com/blueworrybear/blueworrybear/blob/master/images/gitea.png?raw=true">
 </p>
 
 ### Gitea Contributor
 
 Gitea is a self-hosted Git service, which is written in Go. It inspires in the way building self-hosted service.
+You can find my works [here](https://github.com/go-gitea/gitea/pulls?q=is%3Apr+author%3Ablueworrybear+is%3Aclosed).
 
 ---
 
 <p>
-  <img height="150" align='right' src="https://github.com/blueworrybear/blueworrybear/blob/master/images/covergates.png?raw=true">
+  <img height="100" align='right' src="https://github.com/blueworrybear/blueworrybear/blob/master/images/covergates.png?raw=true">
 </p>
 
 ### Covergates
