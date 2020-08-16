@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Benno!
+![thumbnail](https://raw.githubusercontent.com/blueworrybear/blueworrybear/master/images/thumbnail.jpg)
+
+Hey there :wave:
+
+I'm Benno, a senior software engineer at tsmc.
+I believe that sharing makes the world better.
+That's why I love :heartpulse: open source!
+
 
 <!--
 **blueworrybear/blueworrybear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
