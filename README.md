@@ -7,7 +7,7 @@ I'm Benno, a senior software engineer at tsmc.
 I believe that sharing makes the world better.
 That's why I love :heartpulse: open source!
 
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_gopher_favicon.svg/800px-Go_gopher_favicon.svg.png"> I am also a **Gopher**. I have a passion on learning Go and building web application with it.
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_gopher_favicon.svg/800px-Go_gopher_favicon.svg.png"> I am also a **Gopher**. I have a passion for learning Go and building web application with it.
 
 ## My Works
 
@@ -56,6 +56,7 @@ If you are interesting in this project, here is the portal gate :point_down: :po
 
 [![card](https://covergates.com/api/v1/reports/bsi5dvi23akg00a0tgl0/card)](https://covergates.com/report/github/covergates/covergates)
 
+---
 
 ## Get in Touch!
 
