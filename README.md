@@ -22,7 +22,9 @@ It makes me start learning Ruby on Rails. :sunglasses:
 ---
 
 <p>
-  <img width="100" align='left' src="https://github.com/blueworrybear/blueworrybear/blob/master/images/gitea.png?raw=true">
+  <a href="https://gitea.io/en-us/">
+    <img width="100" align='left' src="https://github.com/blueworrybear/blueworrybear/blob/master/images/gitea.png?raw=true">
+  </a>
 </p>
 
 
@@ -35,11 +37,24 @@ You can find my works [here](https://github.com/go-gitea/gitea/pulls?q=is%3Apr+a
 ---
 
 <p>
-  <a href="https://gitea.io/en-us/"><img height="100" align='right' src="https://github.com/blueworrybear/blueworrybear/blob/master/images/covergates.png?raw=true"></a>
+  <a href="https://github.com/covergates/covergates">
+    <img height="100" align='right' src="https://github.com/blueworrybear/blueworrybear/blob/master/images/covergates.png?raw=true">
+  </a>
 </p>
 
 ### Covergates
 
+Covergates is my startup project which is to make the easiest way to setup a self-hosted coverage report service.
+It's an alternative services to [Code Climate](https://codeclimate.com/), [Codecov](https://codecov.io/) and [Coveralls](https://coveralls.io/).
+The reason I start this project is because I believe that:
+
+- It's should be free for managing coverage reports for private repositories
+- It's should be easy to start a self-hosted service
+- It's should be simple and clear on reviewing coverage reports
+
+If you are interesting in this project, here is the portal gate :point_down: :point_down::
+
+[![card](https://covergates.com/api/v1/reports/bsi5dvi23akg00a0tgl0/card)](https://covergates.com/report/github/covergates/covergates)
 
 <!--
 **blueworrybear/blueworrybear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
