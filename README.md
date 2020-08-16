@@ -56,6 +56,14 @@ If you are interesting in this project, here is the portal gate :point_down: :po
 
 [![card](https://covergates.com/api/v1/reports/bsi5dvi23akg00a0tgl0/card)](https://covergates.com/report/github/covergates/covergates)
 
+
+## Get in Touch!
+
+<a href="https://bennolin.com/"><img width="50" src="https://github.com/blueworrybear/blueworrybear/blob/master/images/bear.png?raw=true"></a>
+Personal Website: https://bennolin.com/
+
+<a href="https://www.linkedin.com/in/cilinh/"><img width="50" src="https://github.com/blueworrybear/blueworrybear/blob/master/images/linkedin.png?raw=true"></a> Linkedin: https://www.linkedin.com/in/cilinh/
+
 <!--
 **blueworrybear/blueworrybear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
