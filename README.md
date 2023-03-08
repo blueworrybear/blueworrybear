@@ -54,7 +54,7 @@ The reason I start this project is because I believe that:
 
 If you are interesting in this project, here is the portal gate :point_down: :point_down::
 
-[![card](https://covergates.com/api/v1/reports/bsi5dvi23akg00a0tgl0/card)](https://covergates.com/report/github/covergates/covergates)
+[covergates.github.io](https://covergates.github.io)
 
 ---
 
